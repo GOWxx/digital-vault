@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "a6443e728a51cc58",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a654942ac1d2044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2a98bf0466badfd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c5026b856b43637",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b1136760cdeb6a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "705d3b19fb97b612",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05fa9db57d724065",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12a728a591978e21",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "de0de165f296802c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e88e729705d02c29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ad4d05bf8c5cbe9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a6b34e159d8c5bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78b1127dc1154f5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c352d9b5d648d96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c2a98bf0466badfd",
+  "lastOpenFiles": [
+    "information/React 中文周刊 @131  React hooks 是一个错误吗？.md",
+    "README.md",
+    "information",
+    "未命名.canvas"
+  ]
+}
