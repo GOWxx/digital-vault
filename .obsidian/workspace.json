@@ -11,8 +11,12 @@
             "id": "c2a98bf0466badfd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tutorial/Docker 部署 ClashPremium 教程.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tutorial/Docker 部署 ClashPremium 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tutorial/Docker 部署 ClashPremium 教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tutorial/Docker 部署 ClashPremium 教程.md"
+              }
             }
           }
         ]
@@ -139,11 +147,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2a98bf0466badfd",
+  "active": "705d3b19fb97b612",
   "lastOpenFiles": [
+    "tutorial/Docker 部署 ClashPremium 教程/Untitled.png",
+    "tutorial/Docker 部署 ClashPremium 教程/Untitled 1.png",
+    "tutorial/Docker 部署 ClashPremium 教程",
+    "tutorial/Docker 部署 ClashPremium 教程.md",
+    "tutorial",
+    "未命名.md",
+    "README.md",
     "information/React 中文周刊 @131  React hooks 是一个错误吗？.md",
     "information/React 中文周刊 131  React hooks 是一个错误吗？.md",
-    "README.md",
     "information",
     "未命名.canvas"
   ]
