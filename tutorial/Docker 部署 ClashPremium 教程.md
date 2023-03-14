@@ -172,13 +172,13 @@ docker logs id # 查看日志
 如果本机没有开启 clash 服务，那么直接输入
 ip:端口 和 密码 就可以
 
-![Untitled](https://raw.githubusercontent.com/GOWxx/digital-vault/main/tutorial/Docker%20%E9%83%A8%E7%BD%B2%20ClashPremium%20%E6%95%99%E7%A8%8B/Untitled.png)
+<img width="400" src="https://raw.githubusercontent.com/GOWxx/digital-vault/main/tutorial/Docker%20%E9%83%A8%E7%BD%B2%20ClashPremium%20%E6%95%99%E7%A8%8B/Untitled.png" alt="login"/>
 
 如果本机开启 clash 服务，那么很可能默认进入的是本机的控制界面，需要点击
 配置 - switch to backend 到登陆界面
 再输入服务器ip 端口 和 密码
 
-[Untitled%201.png](https://raw.githubusercontent.com/GOWxx/digital-vault/main/tutorial/Docker%20%E9%83%A8%E7%BD%B2%20ClashPremium%20%E6%95%99%E7%A8%8B/Untitled%201.png))
+<img width="400" src="https://raw.githubusercontent.com/GOWxx/digital-vault/main/tutorial/Docker%20%E9%83%A8%E7%BD%B2%20ClashPremium%20%E6%95%99%E7%A8%8B/Untitled%201.png" alt="switch_to_backend"/>
 
 进入控制界面，可以把 mode 改成 global, 再到代理界面选择合适的 global 节点。
 
