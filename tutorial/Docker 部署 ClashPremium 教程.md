@@ -178,7 +178,7 @@ ip:端口 和 密码 就可以
 配置 - switch to backend 到登陆界面
 再输入服务器ip 端口 和 密码
 
-![Untitled]([Untitled%201.png](https://raw.githubusercontent.com/GOWxx/digital-vault/main/tutorial/Docker%20%E9%83%A8%E7%BD%B2%20ClashPremium%20%E6%95%99%E7%A8%8B/Untitled%201.png))
+[Untitled%201.png](https://raw.githubusercontent.com/GOWxx/digital-vault/main/tutorial/Docker%20%E9%83%A8%E7%BD%B2%20ClashPremium%20%E6%95%99%E7%A8%8B/Untitled%201.png))
 
 进入控制界面，可以把 mode 改成 global, 再到代理界面选择合适的 global 节点。
 
