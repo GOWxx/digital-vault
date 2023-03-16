@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3a654942ac1d2044",
+        "id": "2d34ab029b07a3e4",
         "type": "tabs",
         "children": [
           {
-            "id": "c2a98bf0466badfd",
+            "id": "501cb001d3a9a2b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tutorial/Docker 部署 ClashPremium 教程.md",
+                "file": "tutorial/注册 ChatGPT 教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8468d50b0200c9a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tutorial/订阅 ChatGPT Plus 教程.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tutorial/Docker 部署 ClashPremium 教程.md",
+                "file": "tutorial/订阅 ChatGPT Plus 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tutorial/Docker 部署 ClashPremium 教程.md",
+                "file": "tutorial/订阅 ChatGPT Plus 教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tutorial/Docker 部署 ClashPremium 教程.md"
+                "file": "tutorial/订阅 ChatGPT Plus 教程.md"
               }
             }
           }
@@ -147,14 +160,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "705d3b19fb97b612",
+  "active": "8468d50b0200c9a5",
   "lastOpenFiles": [
+    "tutorial/注册 ChatGPT 教程.md",
+    "tutorial/订阅 ChatGPT Plus 教程.md",
+    "tutorial/Docker 部署 ClashPremium 教程.md",
+    "未命名",
     "tutorial/Docker 部署 ClashPremium 教程/Untitled.png",
     "tutorial/Docker 部署 ClashPremium 教程/Untitled 1.png",
     "tutorial/Docker 部署 ClashPremium 教程",
-    "tutorial/Docker 部署 ClashPremium 教程.md",
     "tutorial",
-    "未命名.md",
     "README.md",
     "information/React 中文周刊 @131  React hooks 是一个错误吗？.md",
     "information/React 中文周刊 131  React hooks 是一个错误吗？.md",
