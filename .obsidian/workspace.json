@@ -6,22 +6,10 @@
       {
         "id": "2d34ab029b07a3e4",
         "type": "tabs",
-        "dimension": 48.8272921108742,
+        "dimension": 58.11320754716981,
         "children": [
           {
             "id": "501cb001d3a9a2b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tutorial/注册 ChatGPT 教程.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8468d50b0200c9a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,13 +20,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "07061cceb66fd976",
         "type": "tabs",
-        "dimension": 51.1727078891258,
+        "dimension": 41.88679245283019,
         "children": [
           {
             "id": "0d7883238daa848c",
@@ -180,16 +167,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8468d50b0200c9a5",
+  "active": "501cb001d3a9a2b9",
   "lastOpenFiles": [
+    "Drafts/attachments/openai_rate_limits.png",
+    "Drafts/attachments/Pasted image 20230321002455.png",
     "tutorial/Docker 部署 ClashPremium 教程.md",
+    "tutorial/Docker 部署 ClashPremium 教程/Untitled 1.png",
+    "tutorial/注册 ChatGPT 教程.md",
+    "tutorial/订阅 ChatGPT Plus 教程.md",
+    "Drafts/Pasted image 20230321002554.png",
     "Drafts/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
     "Pasted image 20230320234833.png",
+    "Pasted image 20230321002221.png",
+    "Drafts/attachments/Pasted image 20230321002334.png",
+    "Drafts/attachments/Pasted image 20230321002420.png",
+    "Drafts/attachments/Pasted image 20230321002415.png",
+    "Drafts/attachments/Pasted image 20230321002410.png",
+    "Drafts/attachments",
     "Drafts",
-    "tutorial/订阅 ChatGPT Plus 教程.md",
-    "tutorial/注册 ChatGPT 教程.md",
     "tutorial/Docker 部署 ClashPremium 教程/Untitled.png",
-    "tutorial/Docker 部署 ClashPremium 教程/Untitled 1.png",
     "tutorial/Docker 部署 ClashPremium 教程",
     "tutorial",
     "README.md",

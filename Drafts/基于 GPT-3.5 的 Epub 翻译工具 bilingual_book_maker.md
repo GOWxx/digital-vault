@@ -17,7 +17,7 @@
   1. openai API key 是在 [openai platform](https://platform.openai.com/login) 注册账号并登陆，在 [api-keys](https://platform.openai.com/account/api-keys) 界面点击 `+ Create new secret key` 按钮生成一个的 API key，通过此 key 可以调用 openai API，注意在点击按钮后弹窗中出现的 key 只会出现一次，保存好。
   2. 在 [usage](https://platform.openai.com/account/usage) 界面可以看使用量。
   3. 有 [rate-limits](https://platform.openai.com/docs/guides/rate-limits)，以 **RPM** (requests per minute) 和 **TPM** (tokens per minute) 作为限制指标，体验金账号就是 Free trial Users, 如果用着用着有 api 调用失败的时候可能是触发了 rate-limits, 绑定了支付信息就是 Pay-as-you-go users，可以看到 RPM 的限额高很多。
-	  ![[Pasted image 20230320234833.png]]
+	  ![rate-limits](attachments/openai_rate_limits.png)
 
 #### epub/txt books
 

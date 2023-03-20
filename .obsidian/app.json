@@ -1,4 +1,9 @@
 {
   "showFrontmatter": true,
-  "livePreview": false
+  "livePreview": false,
+  "attachmentFolderPath": "./attachments",
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
