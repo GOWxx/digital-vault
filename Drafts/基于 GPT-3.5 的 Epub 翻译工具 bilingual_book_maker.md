@@ -33,12 +33,22 @@
 
 ## 二、使用
 
-work in progress
+### 调用方法
 
-参数说明 
+<span style="background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: rainbow 2s linear infinite;">Work in Progress</span> <style> @keyframes rainbow { 0% { background-position: 0%; } 100% { background-position: 400%; } } </style>
+
+### 参数说
+
+<span style="background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: bg-colors 10s ease infinite;">Work in Progress</span> <style> @keyframes bg-colors { 0% { background-color: violet; } 14% { background-color: indigo; } 28% { background-color: blue; } 42% { background-color: green; } 56% { background-color: yellow; } 70% { background-color: orange; } 84% { background-color: red; } 100% { background-color: violet; } } </style>
 
 重要参数：`--batch_size`
+
+<!-- todo: 这里给出 issues 和 pr 链接 -->
 
 ## 三、实测
 
 《哈利波特》七部完整版共 140 万左右的英文单词，开启 `--batch_size` 参数翻译成双语版本用时大概是 2.5 小时。
+
+<!-- todo: 这里给出 issues 和 pr 链接 -->
+
+<span style="font-size: 48px; background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0px 0px 15px rgba(255, 255, 255, 0.8);">Work in Progress</span>
