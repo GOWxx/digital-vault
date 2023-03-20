@@ -6,6 +6,7 @@
       {
         "id": "2d34ab029b07a3e4",
         "type": "tabs",
+        "dimension": 48.8272921108742,
         "children": [
           {
             "id": "501cb001d3a9a2b9",
@@ -15,7 +16,7 @@
               "state": {
                 "file": "tutorial/注册 ChatGPT 教程.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -25,14 +26,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tutorial/订阅 ChatGPT Plus 教程.md",
+                "file": "tutorial/Docker 部署 ClashPremium 教程.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
+          },
+          {
+            "id": "2d0a34b0d88ad2c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drafts/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "f1001f2fa2e35e52"
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "07061cceb66fd976",
+        "type": "tabs",
+        "dimension": 51.1727078891258,
+        "children": [
+          {
+            "id": "0d7883238daa848c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drafts/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "f1001f2fa2e35e52"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,11 +112,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "de0de165f296802c",
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tutorial/订阅 ChatGPT Plus 教程.md",
+                "file": "Drafts/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tutorial/订阅 ChatGPT Plus 教程.md",
+                "file": "Drafts/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tutorial/订阅 ChatGPT Plus 教程.md"
+                "file": "Drafts/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md"
               }
             }
           }
@@ -160,12 +196,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8468d50b0200c9a5",
+  "active": "2d0a34b0d88ad2c7",
   "lastOpenFiles": [
-    "tutorial/注册 ChatGPT 教程.md",
-    "tutorial/订阅 ChatGPT Plus 教程.md",
+    "Pasted image 20230320234833.png",
     "tutorial/Docker 部署 ClashPremium 教程.md",
-    "未命名",
+    "Drafts/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
+    "Drafts",
+    "tutorial/订阅 ChatGPT Plus 教程.md",
+    "tutorial/注册 ChatGPT 教程.md",
     "tutorial/Docker 部署 ClashPremium 教程/Untitled.png",
     "tutorial/Docker 部署 ClashPremium 教程/Untitled 1.png",
     "tutorial/Docker 部署 ClashPremium 教程",
