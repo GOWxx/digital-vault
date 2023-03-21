@@ -29,26 +29,59 @@
 
 #### python3.8 +
 
-用 [pyenv](https://github.com/pyenv/pyenv) 管理 python 版本就可以，还可以针对项目配置版本，很方便。
+用 [pyenv](https://github.com/pyenv/pyenv) 管理 python 版本，还可以针对项目配置版本，很方便。
 
 ## 二、使用
 
 ### 调用方法
 
-<span style="background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: rainbow 2s linear infinite;">Work in Progress</span> <style> @keyframes rainbow { 0% { background-position: 0%; } 100% { background-position: 400%; } } </style>
+1. 安装期望的 python 版本
+2. 克隆项目到本地，进入项目目录
+3. `pip install -r requirements.txt`
+4. `python3 make_book.py --book_name 'test_books/animal_farm.epub' --openai_key sk-XXXXX`
+5. 更多说明参考 [使用说明](https://github.com/yihong0618/bilingual_book_maker/blob/main/README-CN.md#%E4%BD%BF%E7%94%A8)
 
-### 参数说
+### 参数说明
+| API说明                      | 命令                                                          | 可用参数实例                                    |
+| ---------------------------- | ------------------------------------------------------------- | ----------------------------------------------- |
+| 安装依赖                     | pip install -r requirements.txt 或 pip install -U bbook_maker |                                                 |
+| 指定 OpenAI API key          | --openai_key                                                  | --openai_key xxx                                |
+| 指定多个 OpenAI API key      | 用英文逗号分隔                                                | --openai_key xxx,xxx,xxx                        |
+| 使用环境变量                 | BMM_OPENAI_API_KEY                                            |                                                 |
+| 指定测试电子书路径           |                                                               | test_books/animal_farm.epub                     |
+| 指定模型                     | --model                                                  | --model gpt3                                    |
+| 使用 DeepL 进行翻译          | --model deepl --deepl_key ${deepl_key}                        | --model deepl --deepl_key xxx                   |
+| 使用 Google 进行翻译         | --model google                                                |                                                 |
+| 使用彩云进行翻译             | --model caiyun --caiyun_key ${caiyun_key}                     | --model caiyun --caiyun_key xxx                 |
+| 使用 --test 命令             | --test                                                        |                                                 |
+| 指定目标语言                 | --language "language_name"                               | --language "Simplified Chinese"                 |
+| 查找可用的目标语言           | python make_book.py --help                                    |                                                 |
+| 使用代理                     | --proxy proxy_address                                 | --proxy http://127.0.0.1:7890                   |
+| 手动中断后，加入命令继续执行 | --resume                                                      |                                                 |
+| 指定需要翻译的标签           | --translate-tags ${tag name} 多个可用英文逗号分隔                              | --translate-tags h1,h2,h3,p,div                 |
+| 指定电子阅读器类型           | --book_from                                                   |                                                 |
+| 指定挂载点                   | --device_path                                                 |                                                 |
+| 替换 api_base                | --api_base ${url}                                             | --api_base https://xxxx/v1                      |
+| 翻译完生成的双语书名         |                                                               | ${book_name}_bilingual.epub                     |
+| 错误中断生成的书名           |                                                               | ${book_name}_bilingual_temp.epub                |
+| 翻译无标签字符串             | --allow_navigable_strings                                     |                                                 |
+| 调整 prompt                  | --prompt                                                      | --prompt "Translate {text} to {language}"       |
+| 指定批量翻译的行数           | --batch_size                                                  | --batch_size 10 (默认行数为10，目前只对txt生效) |
 
-<span style="background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: bg-colors 10s ease infinite;">Work in Progress</span> <style> @keyframes bg-colors { 0% { background-color: violet; } 14% { background-color: indigo; } 28% { background-color: blue; } 42% { background-color: green; } 56% { background-color: yellow; } 70% { background-color: orange; } 84% { background-color: red; } 100% { background-color: violet; } } </style>
+### 重要参数
 
-重要参数：`--batch_size`
+参数 `--batch_size`
 
-<!-- todo: 这里给出 issues 和 pr 链接 -->
+此参数可以开启批量处理，实测可以将翻译时间缩短数倍，但我目前仅在 apple silicon macos 平台跑通，centos 目前(2023.3.22)无法跑通。
+
+可以关注以下两个相关的 issues 和 pr：
+
+- [请教作者如何能翻译提速 #134](https://github.com/yihong0618/bilingual_book_maker/issues/134)
+- [support batch processing #62](https://github.com/yihong0618/bilingual_book_maker/pull/62)
+
+使用 `--batch_size` 参数：
+原项目的 [PR#62](https://github.com/yihong0618/bilingual_book_maker/pull/62) 兼容性问题没处理，还没合并进 `main` 分支，于是我从上游仓库[bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) fork 了项目并创建 [合并了 PR#62 的分支](https://github.com/GOWxx/bilingual_book_maker/tree/test_batch_processing)，可以先用这个。
 
 ## 三、实测
 
 《哈利波特》七部完整版共 140 万左右的英文单词，开启 `--batch_size` 参数翻译成双语版本用时大概是 2.5 小时。
-
-<!-- todo: 这里给出 issues 和 pr 链接 -->
-
-<span style="font-size: 48px; background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0px 0px 15px rgba(255, 255, 255, 0.8);">Work in Progress</span>
