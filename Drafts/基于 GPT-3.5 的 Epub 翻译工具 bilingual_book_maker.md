@@ -4,6 +4,11 @@
 
 [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) 是一个 AI 翻译工具，使用 ChatGPT 帮助用户制作多语言版本的 epub/txt 文件和图书。
 
+2023.3.22 更新：
+- 已经支持多种翻译 API 了，例如 DeepL、Google、彩云 等等。
+-  `--batch_size` 参数可用了，不过目前只对 txt 生效。
+- 发包了，支持 `**pip install bbook_maker**` 安装。
+
 ### 使用 bilingual_book_maker 需要准备
 
 1. [openai API key]([https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys))
@@ -80,7 +85,7 @@
 - [support batch processing #62](https://github.com/yihong0618/bilingual_book_maker/pull/62)
 
 使用 `--batch_size` 参数：
-原项目的 [PR#62](https://github.com/yihong0618/bilingual_book_maker/pull/62) 兼容性问题没处理，还没合并进 `main` 分支，于是我从上游仓库[bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) fork 了项目并创建 [合并了 PR#62 的分支](https://github.com/GOWxx/bilingual_book_maker/tree/test_batch_processing)，可以先用这个。
+原项目的 [PR#62](https://github.com/yihong0618/bilingual_book_maker/pull/62) 兼容性问题没处理，还没合并进 `main` 分支，于是我从上游仓库[bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) fork 了项目并创建 [合并了 PR#62 的分支](https://github.com/GOWxx/bilingual_book_maker/tree/test_batch_processing)，可以先用这个分支的代码。
 
 ## 三、实测
 
