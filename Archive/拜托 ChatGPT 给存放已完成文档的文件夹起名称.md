@@ -10,9 +10,9 @@
 
 ### 顺序
 
-完成（Completed）→润色（Polished）→精细处理（Refined）→完美处理（Perfected）→完成（Finished）→最终版（Final）→发布（Published）→主要版本（Master）→存档备份（Archive）→展示（Showcased）
+草稿（Drafts）→完成（Completed）→润色（Polished）→精细处理（Refined）→完美处理（Perfected）→完成（Finished）→最终版（Final）→发布（Published）→主要版本（Master）→存档备份（Archive）→展示（Showcased）
 
-Completed → Polished → Refined → Perfected → Finished → Final → Published → Master → Archive → Showcased
+Drafts -> Completed → Polished → Refined → Perfected → Finished → Final → Published → Master → Archive → Showcased
 
 ### 可用
 | 名称 | 描述 |
