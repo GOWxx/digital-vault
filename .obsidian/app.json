@@ -6,5 +6,6 @@
   "newFileLocation": "current",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source",
+  "showUnsupportedFiles": false
 }
