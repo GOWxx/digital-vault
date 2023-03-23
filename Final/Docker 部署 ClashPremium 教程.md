@@ -10,7 +10,7 @@
 - 四、准备 UI 界面
 - 五、Docker 启动项目
 - 六、外部控制界面访问，选择模式和节点
-- 七、服务器内指向代理
+- 七、服务器内指向代 理
 
 **一、安装 Docker**
 
@@ -172,7 +172,7 @@ docker logs id # 查看日志
 如果本机没有开启 clash 服务，那么直接输入
 ip:端口 和 密码 就可以
 
-<img width="400" src="attachments/docker_clash_premium_yard_frontend_web_login.png" alt="login"/>
+<img width="400" src=" app://Local/Users/gowxx/code/GOWxx/digital-vault/Final/attachments/docker_clash_premium_yard_frontend_web_login.png?1678759718000" alt="login"/>
 
 如果本机开启 clash 服务，那么很可能默认进入的是本机的控制界面，需要点击
 配置 - switch to backend 到登陆界面
