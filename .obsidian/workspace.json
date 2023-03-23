@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab3a9f3b459c7645",
+        "id": "28365456f836974d",
         "type": "tabs",
         "children": [
           {
-            "id": "f4f123401ae88c21",
+            "id": "68652e3222cfe99e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,27 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "254667c0f2764f0d"
-          }
-        ]
-      },
-      {
-        "id": "8f59b780c82b41f0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c89f34534e34f9d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Final/Docker 部署 ClashPremium 教程.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "254667c0f2764f0d"
+            }
           }
         ]
       }
@@ -167,16 +147,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "705d3b19fb97b612",
+  "active": "68652e3222cfe99e",
   "lastOpenFiles": [
-    "Final/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
-    "Final/Docker 部署 ClashPremium 教程.md",
-    "Archive/拜托 ChatGPT 给存放已完成文档的文件夹起名称.md",
     "Final/注册 ChatGPT 教程.md",
+    "Final/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
     "Final/订阅 ChatGPT Plus 教程.md",
     "Final/attachments/docker_clash_premium_yard_frontend_web_switch_to_backend.png",
-    "Final/attachments/docker_clash_premium_yard_frontend_web_login.png",
     "Final/attachments/openai_rate_limits.png",
+    "Final/Docker 部署 ClashPremium 教程.md",
+    "Final/snippet.css.md",
+    "Final/snippet.css",
+    "Archive/拜托 ChatGPT 给存放已完成文档的文件夹起名称.md",
+    "Final/attachments/docker_clash_premium_yard_frontend_web_login.png",
     "README.md",
     "Drafts/订阅转换器的使用.md",
     "未命名",

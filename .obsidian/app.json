@@ -7,5 +7,5 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": true
 }
