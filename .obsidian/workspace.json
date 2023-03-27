@@ -17,8 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "b10c12dd7fc620da"
+            }
           },
           {
             "id": "de0fa0622ef524a1",
@@ -34,25 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "c642d03b69a86589",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a915faa4c7873e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drafts/订阅转换器的使用.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "b10c12dd7fc620da"
-          }
-        ]
       }
     ],
     "direction": "vertical"
