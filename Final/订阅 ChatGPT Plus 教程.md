@@ -72,4 +72,7 @@ Depay 有给20% 返佣，同时有个邀请20人（要激活卡）就能升级�
 
 也可以一次多转点在信用卡里，就不用每个月都支付加密货币提现的钱了。
 
+更新：
+- 23.4.13 depay 支持了 BNB 网络，手续费下降很多，提现 150 元的 usdt 大概 2 元手续费。
+
 ![](chrome-extension://mapjgeachilmcbbokkgcbgpbakaaeehi/assets/check.svg)
