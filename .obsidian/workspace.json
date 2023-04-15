@@ -11,8 +11,12 @@
             "id": "1b2f14be7c6009f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Final/订阅 ChatGPT Plus 教程.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Final/订阅 ChatGPT Plus 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Final/订阅 ChatGPT Plus 教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Final/订阅 ChatGPT Plus 教程.md"
+              }
             }
           }
         ]
@@ -141,17 +149,17 @@
   },
   "active": "1b2f14be7c6009f9",
   "lastOpenFiles": [
+    "Final/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
+    "Final/注册 ChatGPT 教程.md",
+    "Final/Docker 部署 ClashPremium 教程.md",
     "Final/attachments/openai_rate_limits.png",
     "Final/attachments/Snipaste_2023-04-14_16-03-00.png",
     "Final/attachments/docker_clash_premium_yard_frontend_web_login.png",
     "Final/attachments/docker_clash_premium_yard_frontend_web_switch_to_backend.png",
-    "Final/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
     "未命名.md",
     "Drafts/Obsidian plugin 开发.md",
     "Final/订阅 ChatGPT Plus 教程.md",
     "Drafts/订阅转换器的本地部署及使用.md",
-    "Final/Docker 部署 ClashPremium 教程.md",
-    "Final/注册 ChatGPT 教程.md",
     "Final/snippet.css.md",
     "Final/snippet.css",
     "Archive/拜托 ChatGPT 给存放已完成文档的文件夹起名称.md",
@@ -166,7 +174,6 @@
     "Pasted image 20230321002221.png",
     "Drafts/attachments/Pasted image 20230321002334.png",
     "Drafts/attachments/Pasted image 20230321002420.png",
-    "Drafts/attachments/Pasted image 20230321002415.png",
     "Final/attachments",
     "Drafts",
     "Final/Docker 部署 ClashPremium 教程",
