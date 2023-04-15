@@ -17,7 +17,27 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "580e5a2366771f35"
+          }
+        ]
+      },
+      {
+        "id": "f11fae745f531386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b78356c5c6f18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final/订阅 ChatGPT Plus 教程.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "580e5a2366771f35"
           }
         ]
       }
@@ -69,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "de0de165f296802c",
@@ -147,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b2f14be7c6009f9",
+  "active": "19b78356c5c6f18d",
   "lastOpenFiles": [
     "Final/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
     "Final/注册 ChatGPT 教程.md",

@@ -6,7 +6,8 @@ Written by [GOWxx](https://github.com/GOWxx).
 
 ChatGPT 用户数量激增，免费账号使用时常遇到响应慢、连接断开等问题，需经常刷新页面。无法保证可用性。最近在使用高峰期，普通用户甚至需要等待高峰过去才能使用。\
 而 ChatGPT Plus 订阅用户可以保证即使在高负载情况下，依然可用。连接长时间有效，不需要频繁刷新。\
-ChatGPT Plus 用户还可以获得 "turbo" 模式，响应比普通更快。
+ChatGPT Plus 用户还可以获得 "turbo" 模式，响应比普通更快，是付费用户的 “Default“。\
+ChatGPT Plus 用户可以使用 "GPT-4" 模式，获得更强的处理能力，扩展了上下文大小这点尤为重要。参考[GPT-4说明](https://openai.com/research/gpt-4)
 
 ## 订阅 ChatGPT Plus 所需: 代理 + 虚拟信用卡
 
