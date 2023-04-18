@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fedf078d7c7ad019",
+        "id": "a4f58f4d18fed73e",
         "type": "tabs",
         "children": [
           {
-            "id": "1b2f14be7c6009f9",
+            "id": "6a1c600e537229ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Drafts/macos 上手技巧.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3fbf6522def581c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6923638829065719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drafts/macos 上手技巧.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -147,11 +165,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b2f14be7c6009f9",
+  "active": "6a1c600e537229ed",
   "lastOpenFiles": [
+    "Drafts/macos 使用 clashX 的教程.md",
+    "Drafts/macos 上手技巧.md",
+    "Drafts/Obsidian plugin 开发.md",
     "Drafts/订阅转换器的本地部署及使用.md",
     "Drafts/toc.md",
-    "Drafts/macos 上手技巧.md",
     "Final/订阅 ChatGPT Plus 教程.md",
     "Final/基于 GPT-3.5 的 Epub 翻译工具 bilingual_book_maker.md",
     "Final/注册 ChatGPT 教程.md",
@@ -161,7 +181,6 @@
     "Final/attachments/docker_clash_premium_yard_frontend_web_login.png",
     "Final/attachments/docker_clash_premium_yard_frontend_web_switch_to_backend.png",
     "未命名.md",
-    "Drafts/Obsidian plugin 开发.md",
     "Final/snippet.css.md",
     "Final/snippet.css",
     "Archive/拜托 ChatGPT 给存放已完成文档的文件夹起名称.md",
