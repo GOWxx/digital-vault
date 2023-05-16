@@ -39,6 +39,7 @@
 - raycast 快捷切换 计算器 等
 - pastenow 几十元，剪贴板管理
 - 落格输入法 几十元？替代原生输入法，原生输入法也够用。
+- 
 - mos 滚轮方向改变
 - thor launcher 快捷键管理
 - goodnotes pdf 阅读/标注
