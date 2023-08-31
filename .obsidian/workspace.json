@@ -11,6 +11,16 @@
             "id": "5f97097f30280a50",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Drafts/attachments/Pasted image 20230516135655.png"
+              }
+            }
+          },
+          {
+            "id": "245f40ebbfa3a487",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Drafts/快速构建自己的 ChatGPT.md",
@@ -18,16 +28,17 @@
                 "source": true
               }
             },
-            "group": "b55f805525e2af99"
+            "group": "056407340731c7cb"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "3d188a180c6ed2d2",
+        "id": "e47f695900dc6008",
         "type": "tabs",
         "children": [
           {
-            "id": "44a7b9665b2c7874",
+            "id": "dcb572e8de6d1083",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +48,7 @@
                 "source": true
               }
             },
-            "group": "b55f805525e2af99"
+            "group": "056407340731c7cb"
           }
         ]
       }
@@ -175,25 +186,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44a7b9665b2c7874",
+  "active": "dcb572e8de6d1083",
   "lastOpenFiles": [
-    "Drafts/attachments/vercel-deploy-project-dashboard.png",
-    "Drafts/attachments/Pasted image 20230516135655.png",
-    "Drafts/attachments/vercel-deploy-continue-to-dashboard.png",
-    "Drafts/attachments/vercel-configure-project-and-deploy.png",
-    "Drafts/attachments/vercel-add-new-project.png",
+    "Drafts/attachments/Pasted image 20230901020907.png",
     "Drafts/快速构建自己的 ChatGPT.md",
-    "Drafts/眼镜配镜选购攻略.md",
+    "Drafts/订阅转换器的本地部署及使用.md",
+    "Drafts/attachments/vercel-project-settings-domains-page-edit-success.png",
+    "Drafts/attachments/chatgpt-next-web-settings.png",
+    "Drafts/attachments/gpt-forward-api-peiqi-30-key.png",
+    "Drafts/attachments/Pasted image 20230516135655.png",
+    "Drafts/attachments/vercel-configure-project-and-deploy.png",
+    "Drafts/attachments/vercel-project-environment-variables-configuration.png",
+    "Drafts/attachments/vercel-porject-deployments-redeploy-button.png",
+    "Drafts/attachments/vercel-deploy-continue-to-dashboard.png",
+    "Drafts/attachments/Pasted image 20230516135651.png",
     "Drafts/Obsidian plugin 开发.md",
+    "Drafts/眼镜配镜选购攻略.md",
     "Drafts/macos 上手技巧.md",
     "Drafts/macos 使用 clashX 的教程.md",
-    "Drafts/attachments/vercel-import-git-respository.png",
     "Final/Docker 部署 ClashPremium 教程.md",
-    "Drafts/attachments/Pasted image 20230901002332 1.png",
-    "Drafts/attachments/Pasted image 20230516135651.png",
-    "Drafts/attachments/chatgpt-next-web_fork_page.png",
-    "Drafts/attachments/chatgpt-next-web_deploy_button.png",
-    "Drafts/订阅转换器的本地部署及使用.md",
     "Final/注册 ChatGPT 教程.md",
     "Final/订阅 ChatGPT Plus 教程.md",
     "眼镜配镜选购攻略.pdf",
