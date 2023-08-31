@@ -28,9 +28,9 @@ ChatGPT-Next-Web 是一个基于 OpenAI 的 ChatGPT 模型构建的 Web 应用�
 
 打开 [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 项目，点击 `Fork` 按钮，如非必要不用更改任何信息，点击 `Create fork` 按钮。
 
-<img src='attachments/chatgpt-next-web_fork_button.png' alt='fork button'/>
+![](attachments/chatgpt-next-web_fork_button.png)
 
-<img src='attachments/chatgpt-next-web_fork_page.png' alt='fork page'/>
+![](attachments/chatgpt-next-web_fork_page.png)
 
 这样就获得了自己的 ChatGPT-Next-Web 项目。
 
@@ -40,17 +40,17 @@ ChatGPT-Next-Web 是一个基于 OpenAI 的 ChatGPT 模型构建的 Web 应用�
 
 打开 **Vercel** 在 Overview 面板点击 `Add New` 按钮，在下拉菜单中点击 `Project` 。
 
-<img src='attachments/vercel-add-new-project.png' alt='add new project'/>
+![](attachments//vercel-add-new-project.png)
 
 在下一个页面中选择 **ChatGPT-Next-Web** 项目，如果找不到那么点击 **Adjust GitHub App Permissions**，在新弹窗页面里调整下权限。
 
 点击 `Import` 按钮。
 
-<img src='attachments/vercel-import-git-respository.png' alt='add new project'/>
+![](attachments/vercel-import-git-respository.png)
 
 在下一步页面中，什么设置都不用更改，直接点击 `Deploy` 按钮。
 
-<img src='attachments/vercel-configure-project-and-deploy.png' alt='add new project'/>
+![](attachments/vercel-configure-project-and-deploy.png)
 
 等待大约2分钟，即可部署完成，点击 `Continue to Dashboard` 按钮。
 
@@ -93,7 +93,7 @@ ChatGPT-Next-Web 是一个基于 OpenAI 的 ChatGPT 模型构建的 Web 应用�
 
 到此我们的 **转发API** 已经搞定。
 
-> 不同的 **转发API** 服务商的 key 结构可能不同，看各自的说明。
+> 不同的 **转发API** 服务商的 **请求地址** 、**key** 等可能不同，看各自的说明。
 
 ### 四、Vercel 项目配置环境变量
 
@@ -118,7 +118,9 @@ ChatGPT-Next-Web 是一个基于 OpenAI 的 ChatGPT 模型构建的 Web 应用�
 添加以下几个环境变量 `OPENAI_API_KEY`、`CODE`、`BASE_URL`，添加好后点击 `Save` 按钮。
 
 `OPENAI_API_KEY`  的值是上一步购买的 **转发API** **key**，例如`sk-***`。
+
 `CODE` 是授权码，在 **ChatGPT** 页面填此即可使用。
+
 `BASE_URL` 填 **转发API** 的请求地址，即 `api.chatanywhere.cn`。
 
 ![](attachments/vercel-project-environment-variables-configuration.png)
