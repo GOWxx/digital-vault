@@ -186,4 +186,4 @@ ChatGPT-Next-Web 是一个基于 OpenAI 的 ChatGPT 模型构建的 Web 应用�
 阅读 [简体中文 > 常见问题](https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/docs/faq-cn.md)
 
 5. 查询 api key 消耗
-   可以在 **ChatGPT-Next-Web** 设置页点击查询，如果用的 `peiqi` 的 **转发API** 也可以在 `api.chatanywhere.cn` 输入 `key` 即 `sk-******` 查询。
+   可以在 **ChatGPT-Next-Web** 设置页点击查询，如果用的 `peiqi` 的 **转发API** 也可以在 [api.chatanywhere.cn]( https://api.chatanywhere.cn) 输入 `key` 即 `sk-******` 查询。
