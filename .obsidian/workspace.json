@@ -16,22 +16,8 @@
                 "file": "Drafts/attachments/Pasted image 20230516135655.png"
               }
             }
-          },
-          {
-            "id": "245f40ebbfa3a487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drafts/快速构建自己的 ChatGPT.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "056407340731c7cb"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e47f695900dc6008",
@@ -47,8 +33,7 @@
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "056407340731c7cb"
+            }
           }
         ]
       }
@@ -124,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/快速构建自己的 ChatGPT.md",
+                "file": "Drafts/attachments/Pasted image 20230516135655.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drafts/快速构建自己的 ChatGPT.md",
+                "file": "Drafts/attachments/Pasted image 20230516135655.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/快速构建自己的 ChatGPT.md"
+                "file": "Drafts/attachments/Pasted image 20230516135655.png"
               }
             }
           }
@@ -186,10 +171,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcb572e8de6d1083",
+  "active": "5f97097f30280a50",
   "lastOpenFiles": [
-    "Drafts/attachments/Pasted image 20230901020907.png",
     "Drafts/快速构建自己的 ChatGPT.md",
+    "Drafts/attachments/Pasted image 20230901020907.png",
     "Drafts/订阅转换器的本地部署及使用.md",
     "Drafts/attachments/vercel-project-settings-domains-page-edit-success.png",
     "Drafts/attachments/chatgpt-next-web-settings.png",
