@@ -11,33 +11,52 @@
             "id": "5f97097f30280a50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drafts/眼镜配镜选购攻略.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "14326674eea5bd89"
-          }
-        ]
-      },
-      {
-        "id": "334315d81b1ef345",
-        "type": "tabs",
-        "children": [
+              "type": "empty",
+              "state": {}
+            }
+          },
           {
-            "id": "e8505a34dce0f168",
+            "id": "a21f1b19d388b473",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
+          },
+          {
+            "id": "0a6d6771c22ae025",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafts/眼镜配镜选购攻略.md",
+                "file": "Final/Docker 部署 ClashPremium 教程.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "911d84fc6c954a41"
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5545dc7ca3b98484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc98805758d07ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final/Docker 部署 ClashPremium 教程.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "14326674eea5bd89"
+            "group": "911d84fc6c954a41"
           }
         ]
       }
@@ -113,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/眼镜配镜选购攻略.md",
+                "file": "Final/Docker 部署 ClashPremium 教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drafts/眼镜配镜选购攻略.md",
+                "file": "Final/Docker 部署 ClashPremium 教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/眼镜配镜选购攻略.md"
+                "file": "Final/Docker 部署 ClashPremium 教程.md"
               }
             }
           }
@@ -175,16 +194,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f97097f30280a50",
+  "active": "4bc98805758d07ba",
   "lastOpenFiles": [
+    "Final/注册 ChatGPT 教程.md",
+    "Final/订阅 ChatGPT Plus 教程.md",
+    "Drafts/眼镜配镜选购攻略.md",
+    "眼镜配镜选购攻略.pdf",
     "Drafts/attachments/Pasted image 20230516135655.png",
     "Drafts/attachments/Pasted image 20230516135651.png",
     "Drafts/attachments",
-    "Drafts/眼镜配镜选购攻略.md",
     "Drafts/macos 上手技巧.md",
     "Drafts/订阅转换器的本地部署及使用.md",
-    "Final/注册 ChatGPT 教程.md",
-    "Final/订阅 ChatGPT Plus 教程.md",
     "Drafts/macos 使用 clashX 的教程.md",
     "Drafts/Obsidian plugin 开发.md",
     "Drafts/toc.md",
@@ -206,14 +226,12 @@
     "Drafts/Pasted image 20230321002554.png",
     "Pasted image 20230320234833.png",
     "Pasted image 20230321002221.png",
-    "Drafts/attachments/Pasted image 20230321002334.png",
     "Final/attachments",
     "Drafts",
     "Final/Docker 部署 ClashPremium 教程",
     "Tutorial",
     "information/React 中文周刊 @131  React hooks 是一个错误吗？.md",
     "Information/React 中文周刊 131  React hooks 是一个错误吗？.md",
-    "Information",
     "未命名.canvas"
   ]
 }

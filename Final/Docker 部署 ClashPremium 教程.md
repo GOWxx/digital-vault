@@ -172,7 +172,7 @@ docker logs id # 查看日志
 如果本机没有开启 clash 服务，那么直接输入
 ip:端口 和 密码 就可以
 
-<img width="400" src=" app://Local/Users/gowxx/code/GOWxx/digital-vault/Final/attachments/docker_clash_premium_yard_frontend_web_login.png?1678759718000" alt="login"/>
+<img width="400" src="attachments/docker_clash_premium_yard_frontend_web_login.png" alt="switch_to_backend"/>
 
 如果本机开启 clash 服务，那么很可能默认进入的是本机的控制界面，需要点击
 配置 - switch to backend 到登陆界面
