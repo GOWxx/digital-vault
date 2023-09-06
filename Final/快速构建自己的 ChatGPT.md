@@ -179,11 +179,15 @@ ChatGPT-Next-Web 是一个基于 OpenAI 的 ChatGPT 模型构建的 Web 应用�
    否则很容易被爆破盗用。
 2. 更多部署教程
    阅读 [简体中文 > 如何开始使用](https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/README_CN.md#%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8)
-
 3. 项目自动更新失败
    阅读 [简体中文 > 如何保持代码更新](https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/README_CN.md#%E4%BF%9D%E6%8C%81%E6%9B%B4%E6%96%B0)
 4. 更多常见问题
-阅读 [简体中文 > 常见问题](https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/docs/faq-cn.md)
-
+   阅读 [简体中文 > 常见问题](https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/docs/faq-cn.md)
 5. 查询 api key 消耗
    可以在 **ChatGPT-Next-Web** 设置页点击查询，如果用的 `peiqi` 的 **转发API** 也可以在 [api.chatanywhere.cn]( https://api.chatanywhere.cn) 输入 `key` 即 `sk-******` 查询。
+6. 模型差异
+   - 阅读 [openai 官方文档](https://platform.openai.com/docs/models/continuous-model-upgrades)
+7. 选择建议
+   - 普通使用选择 gpt-3.5-turbo / gpt-3.5-turbo-0613 / gpt-3.5-turbo-****(看文档最新日期的模型)
+   - 希望逻辑能力、代码能力更强，产出内容更多选择 gpt-4 / gpt-4-0613 / gpt-4-****(看文档最新日期的模型)
+   - 大上下文、长文章内容、长记忆选择 gpt-3.5-turbo-16k / gpt-3.5-turbo-16k-0613 / gpt-3.5-turbo-16k-****(看文档最新日期的模型)
